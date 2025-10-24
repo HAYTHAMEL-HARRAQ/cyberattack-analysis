@@ -1,0 +1,8 @@
+Secteur,Cout_Violation_Moyen_USD_Millions,Source_Cout,Incidents_DBIR_2024,Violations_DBIR_2024,Top_Pattern_1,Top_Pattern_2,Top_Pattern_3,Motif_Principal,Ratio_Violation_Incident
+Healthcare,9.77,IBM Global,1710,1542,System Intrusion,Basic Web Application Attacks,Social Engineering,Financier (78%),0.9017543859649123
+Financial Services,6.774399999999999,IBM Canada,2836,2547,System Intrusion,Social Engineering,Miscellaneous Errors,Financier (99%),0.8980959097320169
+Industrial & Energy,5.7013,IBM Canada,4259,3540,System Intrusion,Basic Web Application Attacks,Social Engineering,Financier (98%),0.831181028410425
+IT & Telecommunications,5.723199999999999,IBM Canada,1569,1542,System Intrusion,Basic Web Application Attacks,Social Engineering,Financier (97%),0.982791586998088
+Education & Research,4.6136,IBM Canada (Moyenne),1075,891,System Intrusion,Social Engineering,Miscellaneous Errors,Financier (98%),0.8288372093023256
+Government & Public Services,4.6136,IBM Canada (Moyenne),2543,1147,System Intrusion,Social Engineering,Miscellaneous Errors,Financier (88%),0.451042076287849
+Retail & E-commerce,4.6136,IBM Canada (Moyenne),837,784,System Intrusion,Basic Web Application Attacks,Social Engineering,Financier (99%),0.9366786140979689
